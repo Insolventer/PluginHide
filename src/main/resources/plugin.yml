@@ -1,0 +1,9 @@
+name: PluginHide
+version: '${version}'
+main: me.pashmash.pluginhide.PluginHide
+api-version: '1.20'
+commands:
+  pluginhidereload:
+    description: Reload the plugin
+    aliases:
+    - phr
